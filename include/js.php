@@ -1,0 +1,13 @@
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js" integrity="sha384-jpja9xMWIcsZ+0VkgustW4IQr7i0cTKXJ4/kDiXJ3YXo/SB//0nkWcPcLIfK2Ie0" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.10.23/js/dataTables.bootstrap5.min.js" integrity="sha384-jIAE3P7Re8BgMkT0XOtfQ6lzZgbDw/02WeRMJvXK3WMHBNynEx5xofqia1OHuGh0" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js" integrity="sha384-wziAfh6b/qT+3LrqebF9WeK4+J5sehS6FA10J1t3a866kJ/fvU5UwofWnQyzLtwu" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js" integrity="sha384-LQc6P0tjydf0IS2VO/iGZcRhIK1mYatxhr+EGHA361ABtAiPhLj0Y9H6zAqto47a" crossorigin="anonymous"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.15.5/dist/sweetalert2.all.min.js" integrity="sha256-92U7H+uBjYAJfmb+iNPi7DPoj795ZCTY4ZYmplsn/fQ=" crossorigin="anonymous" charset="UTF-8"></script> -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.min.js" integrity="sha384-C7a3dC+asxmcLDgugIicWAUjDV1yICGVWde2/EBvrgpuqDFSeO9UD3DckQRM8p/g" crossorigin="anonymous"></script> -->
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js" integrity="sha384-RIQuldGV8mnjGdob13cay/K1AJa+LR7VKHqSXrrB5DPGryn4pMUXRLh92Ev8KlGF" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/select/1.3.2/js/dataTables.select.min.js" integrity="sha384-wP+riEnkGEZdVTXw9BNb/7bu24OP0UGwILpcCrn537z8EvgLHgI0Cwbd1aXeH0UP" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/buttons/1.7.0/js/dataTables.buttons.min.js" integrity="sha384-R0kh6vR5MjQX1eMaxNP1IS3JNwbb8N1jGrRe44/9ErnCDcgEDOifiZJOC4mBSYw2" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous" async></script>
+<script src="../include/js/global.js"></script>
